@@ -1,0 +1,9 @@
+{
+    "name": "ves/upload",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Asserts\\Upload\\": "src/"
+        }
+    }
+}
